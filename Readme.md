@@ -16,5 +16,8 @@ The footer component has social media links and the information of the company s
 ### Home
 The home page displays an image and just some random text for now.
 
-## Services
+### Services
 The services page shows the services provided by the company with an image and the title of the service.
+
+### About
+The about page utilises CSS Grid to some information about the company.
